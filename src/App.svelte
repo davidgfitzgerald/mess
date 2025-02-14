@@ -7,6 +7,7 @@
   <h1>Mess Around</h1>
   <p>Test</p>
   <Counter />
+  <Canvas></Canvas>
 </main>
 
 <style>
