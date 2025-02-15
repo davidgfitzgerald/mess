@@ -12,4 +12,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+#app {
+  margin: 16px;
+}
 
